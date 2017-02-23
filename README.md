@@ -10,3 +10,7 @@
 - K ->下一页
 - 空格键控制播放
 - 直接输入序号回车播放
+
+
+![demo1](http://p1.bqimg.com/4851/38149795c3e295d5.png)
+![demo2](http://p1.bqimg.com/4851/c519982fe7054932.png)
