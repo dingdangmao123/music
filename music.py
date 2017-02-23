@@ -27,7 +27,7 @@ def  loadmusic():
 			print "path error"
 			sys.exit()
 	else:
-		dd='/home/sujianwei/py-music'
+		dd='~/py-music'
 	os.chdir(dd)
 	music=filter(ff,os.listdir(dd))
 	if len(music)==0:
