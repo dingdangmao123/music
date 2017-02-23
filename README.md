@@ -1,4 +1,4 @@
-# music-基于Python的Linux控制台音乐播放器
+# Pmusic-基于Python的Linux控制台音乐播放器
 
 ##依赖
 - Python
@@ -12,5 +12,5 @@
 - 直接输入序号回车播放
 
 
-![demo1](http://p1.bqimg.com/4851/38149795c3e295d5.png)
-![demo2](http://p1.bqimg.com/4851/c519982fe7054932.png)
+![demo1](http://github.com/dingdangmao123/music/raw/master/demo/1.png)
+![demo2](http://github.com/dingdangmao123/music/raw/master/demo/2.png)
