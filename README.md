@@ -12,4 +12,8 @@
 - 空格键控制播放
 - 直接输入序号回车播放
 
-#### 全部代码位于一个文件，略凌乱，风格有点随意
+### 全部代码位于一个文件，略凌乱，风格有点随意
+
+### 运行效果
+![](https://github.com/dingdangmao123/music/blob/master/picture/1.png)
+![](https://github.com/dingdangmao123/music/blob/master/picture/2.png)
